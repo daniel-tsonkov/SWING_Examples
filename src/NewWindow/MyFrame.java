@@ -12,5 +12,6 @@ public class MyFrame extends JFrame {
         //this.setSize(100, 100);// set the window fisible
         this.setExtendedState(JFrame.MAXIMIZED_BOTH); // set the window full screen without start menu
         this.setVisible(true); // set the window fisible
+        //this.
     }
 }
